@@ -1,0 +1,29 @@
+.search-form {
+  padding: 16px 16px 18px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #eee;
+}
+
+.search-form .search-form-hide-filters {
+  display: none;
+}
+
+.search-form .form-group .ant-form-item {
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 12px;
+
+}
+
+.search-form .form-group .ant-form-item .ant-col--1 {
+  float: left;
+  flex: 0 0 auto;
+}
+
+.search-form .form-group .search-form-hide-filters {
+  display: none;
+}
+.search-form .form-footer {
+  margin-bottom: 0;
+  text-align: right;
+}

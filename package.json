@@ -1,0 +1,36 @@
+{
+  "name": "antd-demo-ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-router": "^4.0.20",
+    "@types/react-router-dom": "^4.2.3",
+    "ant-design-pro": "^1.0.1",
+    "antd": "^3.1.4",
+    "mobx": "^3.4.1",
+    "mobx-react": "^4.3.5",
+    "nprogress": "^0.2.0",
+    "object-path": "^0.11.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.13.0"
+  },
+  "scripts": {
+    "eject": "react-scripts-ts eject",
+    "start": "react-app-rewired start --scripts-version react-scripts-ts",
+    "build": "react-app-rewired build --scripts-version react-scripts-ts",
+    "test": "react-app-rewired test --env=jsdom --scripts-version react-scripts-ts"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.1.0",
+    "@types/node": "^9.3.0",
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "react-app-rewire-less": "^2.1.0",
+    "react-app-rewired": "^1.4.0",
+    "ts-import-plugin": "^1.4.3",
+    "typescript": "^2.6.2"
+  }
+}
